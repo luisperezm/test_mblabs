@@ -1,0 +1,8 @@
+{
+	"source": "SRC_MB",
+	"app":"MBLabs",
+	"app_info":{
+		"module":"watercolor",
+		"destination":"/display_module"
+	}
+}
