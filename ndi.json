@@ -2,8 +2,8 @@
 	"source": "SRC_MB",
 	"app":"MBLabs",
 	"app_info":{
-		"experience_behavior": true,
-		"experience_behavior_assets": 2,
+		"experience_background": true,
+		"experience_background_assets": 2,
 		"module":"watercolor",
 		"destination":"/display_module"
 	}
