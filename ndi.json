@@ -3,7 +3,7 @@
 	"app":"MBLabs",
 	"app_info":{
 		"background": true,
-		"ndi_assets": 10,
+		"ndi_assets": "test",
 		"module":"watercolor",
 		"destination":"/display_module"
 	}
