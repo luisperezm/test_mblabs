@@ -1,9 +1,9 @@
 {
 	"source": "SRC_MB",
 	"app":"MBLabs",
+	"background": true,
+	"ndi_assets": 21,
 	"app_info":{
-		"background": true,
-		"ndi_assets": 21,
 		"module":"watercolor",
 		"destination":"/display_module"
 	}
